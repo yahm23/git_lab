@@ -1,1 +1,3 @@
-hello people
+const helloWorld = () => {
+  return "Hello World!";
+}
